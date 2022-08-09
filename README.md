@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Zephir
-- 👀 I’m interested in: Creating a programs with C++ and looking for a job as a programmer.
+- 👀 I’m interested in: Creating a programs with C++ and computer games.
+- 👀 I'm looking for a job as a programmer.
 - 🌱 I’m currently learning: Unreal Engine 5.0 ang reading the book "Effective
 Modern C++ - Scott Meyers".
 - 📫 How to reach me:
