@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zephir
+- 👋 Hi, I’m @Zephyr
 - 👀 I’m interested in: Creating a programs with C++ and computer games.
 - 👀 I'm looking for a job as a programmer.
 - 🌱 I’m currently learning: Unreal Engine 5.0 ang reading the book "Effective
