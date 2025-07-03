@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zephyr
-- 👀 I’m interested in: Creating a programs with C++ and computer games.
+- 👀 I’m interested in: World.
 - 💻 I'm looking for a job as a programmer.
 - 🌱
 - 📫 How to reach me:
