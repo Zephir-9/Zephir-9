@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Zephyr
-- 👀 I’m interested in: World.
-- 💻 I'm looking for a job as a programmer.
-- 🌱
+- Backend Developer (Java, python, C++)
+- Looking for a job
 - 📫 How to reach me:
 - e-mail: LegionXini@gmail.com
 - Telegram: [@Zephyros00](https://t.me/Zephyros00);
